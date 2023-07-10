@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Lucas Mires</h1>
+<h1 align="left">Hi 👋 I'm Lucas Mires</h1>
 <p align="left">I'm a Developer Full Stack who love the unknown, I really ...</p>
 
 <h3 align="left">Want to Connect with me? Here you go:</h3>
