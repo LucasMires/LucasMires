@@ -6,11 +6,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&duration=2000&pause=1500&color=14C2E6&background=FFFFFF00&multiline=true&width=440&height=80&lines=Hi+Everyone%2C+I'm+Lucas+Mires%F0%9F%8F%84;Here+you+can+find+all+of+my+Projects;I+hope+you+learning+more+about+me%F0%9F%92%99" alt="Typing SVG" />
 </a>
 
-## Contact me:
-- <a href="https://www.linkedin.com/in/lucas-mires10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasmires10" height="30" width="40" /></a>
-
-<br></br>
-
 ## Skills:
 > ### Front-End:
 > [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,sass,styledcomponents,tailwind,vite)](https://skillicons.dev)
@@ -20,6 +15,9 @@
 
 > ### Tools:
 > [![My Skills](https://skillicons.dev/icons?i=github,git,powershell,figma,vercel,bash)](https://skillicons.dev)
+
+## Contact me:
+- <a href="https://www.linkedin.com/in/lucas-mires10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasmires10" height="30" width="40" /></a>
 
 <br></br>
 
