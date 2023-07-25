@@ -17,7 +17,9 @@
 > [![My Skills](https://skillicons.dev/icons?i=github,git,powershell,figma,vercel,bash)](https://skillicons.dev)
 
 ## Contact me:
-- <a href="https://www.linkedin.com/in/lucas-mires10/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasmires10" height="30" width="40" /></a>
+- <a href="https://www.linkedin.com/in/lucas-mires10/">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasmires10" height="30" width="40"/>
+</a>
 
 <br></br>
 
