@@ -28,9 +28,9 @@
 
 <details>
     <summary>
-        <h2>About me</h2>
+        <h2>My Coding Journey</h2>
     </summary>
-    <p>I'm a Developer Full Stack who love the unknown and mysteries of software engineer, I really enjoy create websites and complex Api's</p>
+    
 
 - <h3 align="left">I'm currently learning: </h3>
 > [![My Skills](https://skillicons.dev/icons?i=angular,sass,docker,aws)](https://skillicons.dev)
