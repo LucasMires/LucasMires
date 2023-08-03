@@ -30,7 +30,7 @@
     <summary>
         <h2>My Coding Journey</h2>
     </summary>
-    
+    <p></p>
 
 - <h3 align="left">I'm currently learning: </h3>
 > [![My Skills](https://skillicons.dev/icons?i=angular,sass,docker,aws)](https://skillicons.dev)
