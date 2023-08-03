@@ -8,7 +8,7 @@
 
 ## Skills:
 > ### Front-End:
-> [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,sass,styledcomponents,tailwind,vite)](https://skillicons.dev)
+> [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,tailwind,sass,vite,nextjs)](https://skillicons.dev)
 
 > ### Back-End:
 > [![My Skills](https://skillicons.dev/icons?i=js,ts,py,nodejs,express,django,nestjs,postgres,sqlite,prisma)](https://skillicons.dev)
