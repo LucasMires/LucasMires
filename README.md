@@ -30,7 +30,9 @@
     <summary>
         <h2>My Coding Journey</h2>
     </summary>
-    <p></p>
+    <p>
+        I started my programming studies in 2021, since then I was able to learning a lot of cool and essencial technologies to be Full Stack Web Developer. I was able to work in a lot of individual project and group Projects which always were the best I and everytime I could learning a new thing. I work at a Company called Kenzie Academy Brasil as a Monitor/Tutor, I was responsable to help the students with their questions, correction of Projects and grades report. Currently I'm still studying some technologies that it's mentioned bellow.
+    </p>
 
 - <h3 align="left">I'm currently learning: </h3>
 > [![My Skills](https://skillicons.dev/icons?i=angular,sass,docker,aws)](https://skillicons.dev)
